@@ -1,0 +1,6 @@
+C:\projects\קורס .net\10.2\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+C:\projects\קורס .net\10.2\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+C:\projects\קורס .net\10.2\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+C:\projects\קורס .net\10.2\FileFinder\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\10.2\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+C:\projects\קורס .net\10.2\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
